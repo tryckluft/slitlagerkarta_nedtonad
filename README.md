@@ -1,6 +1,6 @@
 # slitlagerkarta, nedtonad
-Skapad av öppna data från Lantmäteriet och Trafikverket
+Enklare karta baserad på Vägkartan från Lantmäteriet. Nedtonad version för bättre synlighet.  
 
-Nedtonad version för bättre synlighet
+Skapad av öppna data från Lantmäteriet och Trafikverket
 
 https://tryckluft.github.io/slitlagerkarta_nedtonad/
