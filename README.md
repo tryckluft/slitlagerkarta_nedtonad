@@ -3,4 +3,4 @@ Enklare karta baserad på Vägkartan från Lantmäteriet. Nedtonad version för 
 
 Skapad av öppna data från Lantmäteriet och Trafikverket
 
-https://tryckluft.github.io/slitlagerkarta_nedtonad/
+https://jole84.github.io/slitlagerkarta_nedtonad/
